@@ -1,0 +1,6 @@
+{
+  "name": "ORIONTOTO - Portal Hiburan & Pasaran Togel Resmi",
+  "description": "Portal resmi Oriontoto dengan jackpot progresif live, pasaran togel 3 prize lengkap, direktori slot & casino, RTP live, dan layanan pelanggan 24 jam.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
